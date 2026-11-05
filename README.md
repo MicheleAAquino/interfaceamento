@@ -1,7 +1,9 @@
 
 
 Interfaceamento de Exames Laboratoriais
+
 Sobre o projeto
+
 Este projeto simula a comunicação entre um equipamento de laboratório e um sistema de gestão de exames.
 
 O sistema permite cadastrar amostras, receber resultados enviados pelo equipamento e acompanhar o processo até a liberação do exame.
